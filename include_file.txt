@@ -1,0 +1,4 @@
+r = 4
+s = 2.5
+t = r+2
+println("The sum of r and s is: ", t)
